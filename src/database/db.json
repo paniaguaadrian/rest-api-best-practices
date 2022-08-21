@@ -2,7 +2,7 @@
   "workouts": [
     {
       "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
-      "name": "Tommy V",
+      "name": "Martina",
       "mode": "For Time",
       "equipment": [
         "barbell",
@@ -17,7 +17,7 @@
         "6 rope climbs, 15 ft"
       ],
       "createdAt": "4/20/2022, 2:21:56 PM",
-      "updatedAt": "4/20/2022, 2:21:56 PM",
+      "updatedAt": "8/21/2022, 4:25:53 PM",
       "trainerTips": [
         "Split the 21 thrusters as needed",
         "Try to do the 9 and 6 thrusters unbroken",
@@ -82,9 +82,9 @@
         "Go unbroken on the thrusters",
         "Take the abmat sit-ups as a chance to normalize your breath"
       ],
-      "id": "d1b9bc84-7c19-44e2-afe5-6e07ce8875de",
-      "createdAt": "8/21/2022, 1:40:37 AM",
-      "updatedAt": "8/21/2022, 1:40:37 AM"
+      "id": "770544c4-ba9f-4f20-a381-2eb77a5ac814",
+      "createdAt": "8/21/2022, 4:25:28 PM",
+      "updatedAt": "8/21/2022, 4:25:28 PM"
     }
   ]
 }
